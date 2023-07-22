@@ -1,6 +1,6 @@
 ### Hi there, i'm Magno 👋
 
-🔭 I’m currently a Senior Android Engineer on [C6Bank](https://www.c6bank.com.br/)
+🔭 I am currently a Senior Android Engineer at [C6Bank](https://www.c6bank.com.br/)
 
 Where to find me:
 
